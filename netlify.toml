@@ -1,0 +1,5 @@
+# Static site: index.html lives at the repository root, no build step needed.
+[build]
+  base = "."
+  publish = "."
+  command = "echo 'No build step required'"
