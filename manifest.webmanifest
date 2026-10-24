@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "Academia Pro",
+  "short_name": "Academia Pro",
+  "description": "Cursos práticos de marketing e gestão.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "background_color": "#f6f6f0",
+  "theme_color": "#77C000",
+  "categories": [
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
